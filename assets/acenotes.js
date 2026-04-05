@@ -5,7 +5,7 @@ const NOTES = [
   { id: 1, title: 'English Language Smart Revision ICSE', cls: '10', board: 'ICSE', subject: 'English Language', price: 80,
     cover: { light: '../assets/covers/english-light-pre.png', dark: '../assets/covers/eng-dark-pre.png' },
     description: 'A smart revision guide for <strong>English Language</strong> (ICSE Class 10) — covering all key grammar topics, writing formats, and comprehension strategies needed to score high in the board exam.',
-    features: ['Grammar: tenses, voice, narration, clauses, and more','All writing formats: letter, notice, email, report, article','Comprehension strategies and unseen passage tips','Common errors and how to avoid them','Board exam pattern questions with model answers','Last-minute revision checklist included']
+    features: ['GrammaDDDDDr: tenses, voice, narration, clauses, and more','All writing formats: letter, notice, email, report, article','Comprehension strategies and unseen passage tips','Common errors and how to avoid them','Board exam pattern questions with model answers','Last-minute revision checklist included']
   },
   { id: 2, title: 'Some Basic Concepts Of Chemistry', cls: '11', board: null, subject: 'Chemistry', price: 100,
     cover: { light: '../assets/covers/sbcc-light.png', dark: '../assets/covers/sbcc-dark.png' },
